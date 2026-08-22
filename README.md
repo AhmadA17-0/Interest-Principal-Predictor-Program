@@ -19,7 +19,7 @@ The web app's two main modes:
 
 3- How to Run It on Your Computer
 
-No Need for programming experience! Just follow these instructions:
+No Need for programming! Just follow these instructions:
 
 1. Install Python: Make sure you have Python installed on your computer. (You can download it for free at [python.org](https://www.python.org/)).
 2. Open your terminal or command prompt:
@@ -35,8 +35,8 @@ No Need for programming experience! Just follow these instructions:
 
 4- Tools Used
 
-- Python The main programming language that makes the math work.
-- Streamlit: A tool that turns Python scripts into beautiful, interactive web pages without needing to know complex web development.
+- Python The main programming language that makes the math work. With multiple useful functions for different uses like sorting lists and predicting values.
+- Streamlit: A tool that turns Python scripts into beautiful, interactive web pages without needing to know complex web development. with session state was used to save and share variables across different script reruns for each user's browser tab
 - Pandas: A library that helps organize the data into neat tables.
 
 5- Why I Made This
